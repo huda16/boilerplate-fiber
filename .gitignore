@@ -1,0 +1,43 @@
+# Go binary
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build output
+*.out
+
+# Dependency directories (remove the comment if you use Go modules)
+# vendor/
+
+# Environment files
+.env
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+*.cover
+coverage.out
+
+# SQL
+*.sql
+.sql
